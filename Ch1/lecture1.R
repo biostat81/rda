@@ -1,3 +1,6 @@
+#### This file contains R codes used in Lecture 1.
+#### For the most part it was copied from the textbook.
+
 2*3+1
 a<-2
 b<-3
