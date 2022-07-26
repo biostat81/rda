@@ -1,3 +1,6 @@
+#### This file contains R codes used in Lecture 2.
+#### For the most part it was copied from the textbook.
+
 library(dplyr)
 
 x<-1:10
@@ -9,10 +12,6 @@ x %>% log() %>% round() %>% sum()
 
 sum(round(log(1:10), digits=1))
 x %>% log() %>% round(digits=1) %>% sum() 
-
-
-
-
 
 setwd("C:\\Users\\SYP\\Dropbox\\KNOU_강의개편\\고급R활용\\R_exercise")
 
